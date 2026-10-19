@@ -1,6 +1,6 @@
 // ESTE ES EL ÚNICO ARCHIVO QUE EDITAS PARA TUS PRODUCTOS.
 // 1) Tu ID de tienda de Amazon (el que termina en -20):
-const STORE_ID = "TU-TAG-20";
+const STORE_ID = "mancuernasenc-20";
 
 // 2) Tus productos. Copia un bloque por producto (quita las // del inicio).
 // cat: mancuernas, banco, bandas o tapete
