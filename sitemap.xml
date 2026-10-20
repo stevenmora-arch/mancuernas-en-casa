@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Página Principal -->
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Páginas y Artículos -->
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/banco-ajustable-como-elegir.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/cuanto-peso-necesito-mancuernas.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/errores-comunes-entrenar-en-casa.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/gimnasio-en-casa-barato.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/mancuernas-ajustables-como-elegir.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/mancuernas-vs-bandas-elasticas.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/rutina-30-minutos-mancuernas.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/rutina-mancuernas-principiantes.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/rutina-pecho-espalda-mancuernas.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://stevenmora-arch.github.io/mancuernas-en-casa/rutina-piernas-mancuernas.html</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
