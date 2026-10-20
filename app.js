@@ -15,7 +15,7 @@ l.href=p.link||("https://www.amazon.com/dp/"+p.asin+"?tag="+ID);l.target="_blank
 b.appendChild(h);b.appendChild(t);b.appendChild(l);a.appendChild(im);a.appendChild(b);return a}
 document.querySelectorAll(".prods").forEach(function(s){
 var c=s.dataset.cat.split(",");
-var list=L.filter(function(p){return c[0]==="todos"||c.indexOf(p.cat)>-1}).slice(0,8);
+var list=L.filter(function(p){return c[0]==="todos"||c.indexOf(p.cat)>-1}).slice(0,12);
 if(!list.length)return;
 var g=s.querySelector(".grid");list.forEach(function(p){g.appendChild(card(p))});s.hidden=false});
 })();
