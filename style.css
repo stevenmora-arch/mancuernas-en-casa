@@ -91,3 +91,16 @@ footer{background:var(--ink);color:#aab4bf;font-size:.88rem;padding:2rem 0}foote
 .sel-res{margin:1.2rem 0}.sel-res:focus{outline:none}.sel-res h3{font-size:1.7rem;margin:0 0 .4rem}.sel-res h4{margin:.8rem 0 .2rem;font:700 1rem "DM Sans",sans-serif}.sel-res p{margin:.2rem 0}
 .rm,.ra{background:#fff;border-radius:16px;padding:1.2rem 1.3rem;box-shadow:0 1px 3px rgba(18,22,28,.12);margin:.8rem 0}.rm{border:2px solid var(--ink)}.rm h3{font-size:1.5rem}.ra h3{font-size:1.25rem}
 .alts{display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:.8rem}.dato{color:var(--mut);font-size:.92rem}.sel-res ul{padding-left:1.1rem;margin:.2rem 0}
+
+.skip{position:absolute;left:-999px;top:0;background:var(--ink);color:#fff;padding:.6rem 1rem;z-index:100}.skip:focus{left:0}
+.mig{font-size:.85rem;color:var(--mut);margin-bottom:.4rem}.mig a{color:var(--mut)}.mig span[aria-hidden]{margin:0 .4rem}
+.meta{font-size:.85rem;color:var(--mut);margin:.2rem 0 1rem}
+.fcols{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:2rem;padding-bottom:1.5rem}.fcols b{display:block;color:#fff;margin-bottom:.4rem}.fcols a{display:block;color:#aab4bf;text-decoration:none;padding:.15rem 0}.fcols a:hover{color:var(--yel)}.fcols p{margin:0}
+.fleg{border-top:1px solid #2a323c;padding-top:1rem}
+.mas h2{margin-top:2.8rem}.mas .grid{grid-template-columns:repeat(auto-fill,minmax(12rem,1fr))}.mas .card h3{font-size:1.2rem}
+main ul{padding-left:1.2rem}
+@media(max-width:820px){.fcols{grid-template-columns:1fr}}
+
+.cb-ck{position:fixed;left:1rem;right:1rem;bottom:1rem;z-index:60;max-width:40rem;margin:0 auto;background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 30px rgba(18,22,28,.25);padding:1rem 1.2rem}
+.cb-ck p{margin:0 0 .7rem;font-size:.92rem}.cb-ck .acts{display:flex;gap:.6rem;flex-wrap:wrap}
+.cb-ck button{font:700 1rem "DM Sans",sans-serif;padding:.6rem 1.2rem;border-radius:10px;border:2px solid var(--ink);background:#fff;color:var(--ink);cursor:pointer}.cb-ck button:hover{background:#f1f3f6}
